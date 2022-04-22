@@ -5,7 +5,6 @@
 ### **👁️ Profile 👁️**
 
 [![](https://komarev.com/ghpvc/?username=Karma-ngo&style=for-the-badge)](https://github.com/Karma-ngo/)
-[![](https://img.shields.io/github/followers/Karma-ngo?style=for-the-badge)](https://github.com/Karma-ngo/)
 
 ---
 
