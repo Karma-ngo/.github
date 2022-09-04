@@ -12,7 +12,6 @@
 
 - **[Karma's Github](https://github.com/Karma-ngo/)**
 - **[Karma's Instagram](https://www.instagram.com/karma.ngo_/)**
-- **[Karma's Skidbin](https://skidbin.net/user/KarmaNGO/)**
 
 ---
 
