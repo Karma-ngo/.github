@@ -10,15 +10,4 @@
 
 ### **💬 Socials 💬**
 
-- **[Karma's Github](https://github.com/Karma-ngo/)**
-- **[Karma's Instagram](https://www.instagram.com/karma.ngo_/)**
-
----
-
-### **🪙 Crypto 🪙**
-
-**BTC:** `3QyFLimtqLFYFsRsjQheTKHnecZQKvbhLw`
-
-**ETH:** `0x41D94767300a9F03492a5241cDaE2B5AbA8E87ad`
-
-**LTC:** `ltc1qnqdx47pfgx7unzaccxe2lj9v9t9qezsauqyu9p`
+- **[Karma's Instagram](https://www.instagram.com/karma_.ngo/)**
